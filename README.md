@@ -48,4 +48,5 @@ Upload to GitHub
 Author
 -------
 Supreetha Shetty
-Electronics and Communication Engineering Student
+Electronics & Communication Engineer | AI & ML Enthusiast
+
